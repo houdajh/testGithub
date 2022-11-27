@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java. util.Arrays;
 import java.util.List;
 
-//I don't have a name :edit ik
+//I don't have a name :edit
 
 public class test {
     protected  void getNamePhrase() {
