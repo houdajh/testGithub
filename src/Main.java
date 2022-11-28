@@ -5,12 +5,8 @@ public class Main {
         animal.getNamePhrase();
         test animal2 = new test2();
         animal2.getNamePhrase();
-
+//edit main
     }
 }
 
-<<<<<<< HEAD
-//create conflict2
-=======
-//create conflict
->>>>>>> e954c115525d09418b8d55efdcd1d3b9904403a8
+
