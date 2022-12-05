@@ -7,8 +7,7 @@ public class Main {
         //add animal7
         test animal7 = new test2();
         animal2.getNamePhrase();
-
-
+        
     }
 }
 
