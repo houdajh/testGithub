@@ -5,11 +5,7 @@ public class Main {
         animal.getNamePhrase();
         test animal2 = new test2();
         animal2.getNamePhrase();
-<<<<<<< HEAD
 //conflit feature1
-=======
-//bonjour conflict
->>>>>>> master
     }
 }
 
