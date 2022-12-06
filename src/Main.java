@@ -5,9 +5,7 @@ public class Main {
         animal.getNamePhrase();
         test animal2 = new test2();
         animal2.getNamePhrase();
-        //edit branch feature2
-
-
+//conflit feature1
 
     }
 }
